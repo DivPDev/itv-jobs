@@ -37,8 +37,6 @@ export class Jobs {
     //     openings
     //   }
     // });
-
-    // this.router.navigate(['edit-job',title, description, openings]);
     
     this.router.navigate(['edit-job'], {
       state: {
